@@ -10,7 +10,7 @@ This comprehensive app offers farmers a range of tools to optimize their farming
 ## Screenshots
 
 
-![App Screenshot](https://github.com/user-attachments/assets/0cfe9a2a-8f04-4748-813c-f5b654f0935c)
+
 
 ![App Screenshot](https://github.com/user-attachments/assets/14754862-4f13-4d28-a597-026eaa8ee9dd)
 
